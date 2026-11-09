@@ -1,0 +1,16 @@
+# Index des diagrammes
+
+- [Paiement — conception initiale (couplage fort)](images/00_paiement_non_conforme.png)
+- [Commande — faible cohésion / fort couplage](images/01_commande_non_conforme.png)
+- [Commande — forte cohésion / faible couplage](images/02_commande_conforme.png)
+- [SRP — classe Book à responsabilités multiples](images/03_srp_non_conforme.png)
+- [SRP — responsabilités séparées](images/04_srp_conforme.png)
+- [OCP — calculateur conditionnel](images/05_ocp_non_conforme.png)
+- [OCP — abstraction Shape et polymorphisme](images/06_ocp_conforme.png)
+- [LSP — Square hérite de Rectangle et change le contrat](images/07_lsp_non_conforme.png)
+- [LSP — Rectangle et Square implémentent Shape séparément](images/08_lsp_conforme.png)
+- [ISP — interface Worker trop large](images/09_isp_non_conforme.png)
+- [ISP — interfaces ciblées](images/10_isp_conforme.png)
+- [DIP — OrderProcessor construit MySQLDatabase](images/11_dip_non_conforme.png)
+- [DIP — dépendance vers Database injectée](images/12_dip_conforme.png)
+- [Paiement — extension par interface](images/13_paiement_conforme.png)
